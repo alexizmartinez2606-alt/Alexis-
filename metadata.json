@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ROES Naranjo - Sistema Financiero Pro",
+  "description": "Calculadora financiera profesional para créditos en almacén, cuotas por factor, amortización y simulador de liquidación anticipada con factor corregido de 18 meses (0.0787).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
